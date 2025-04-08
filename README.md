@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Robin Jangam
+#  Hi, I'm Robin Jangam
 
-🎯 Aspiring **Business Analyst** with a strong background in business management, data analytics, and project leadership. I blend business insight with technical expertise to transform data into actionable insights and drive strategic decision-making.
+ Aspiring **Business Analyst** with a strong background in business management, data analytics, and project leadership. I blend business insight with technical expertise to transform data into actionable insights and drive strategic decision-making.
 
 ---
 
-## 💼 About Me
+##  About Me
 
 - 🎓 Master of Business Administration (Business Analytics), University of Scranton — *GPA: 3.8/4.0*
 - 🧠 Experienced in **Python**, **SQL (PostgreSQL)**, **Tableau**, **Power BI**, and **Excel**
@@ -15,18 +15,18 @@
 
 ---
 
-## 📌 Projects
+##  Projects
 
-- **📈 Tesla Business & Stock Analysis**  
+- ** Tesla Business & Stock Analysis**  
   Visualized financial indicators and market trends with Tableau using Kaggle datasets  
 
-- **🛍️ Retail Sales Performance**  
+- ** Retail Sales Performance**  
   Built optimized SQL queries and interactive Tableau dashboards for sales, customer, and inventory insights  
 
-- **🏦 Lending Performance Dashboard**  
+- ** Lending Performance Dashboard**  
   Assessed bank loan data using Excel, SQL & Tableau to uncover portfolio health and borrower trends  
 
-- **🍿 Netflix SQL Analysis**  
+- ** Netflix SQL Analysis**  
   Used PostgreSQL to analyze content distribution, genres, and country-wise trends  
 
 - **☕ Monday Coffee Sales**  
