@@ -9,7 +9,6 @@
 -  Master of Business Administration (Business Analytics), University of Scranton — *GPA: 3.8/4.0*
 -  Experienced in **Python**, **SQL (PostgreSQL)**, **Tableau**, **Power BI**, and **Excel**
 -  Skilled in **Data Visualization**, **Forecasting**, **Market Research**, and **Predictive Analytics**
--  Former **Project Manager**, **Fraud Analyst**, and **Operations Analyst** with demonstrated success in managing teams, automating reports, and preventing financial fraud
 -  Fun fact: I love playing **chess** — I believe strategy on the board sharpens decision-making in real life!
 -  Connect with me on LinkedIn - https://www.linkedin.com/in/robinjangam/
 
